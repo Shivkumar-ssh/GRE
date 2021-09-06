@@ -1,4 +1,4 @@
-# GRE
+### GRE
 This is a repo to store all the activities related to GRE preparation. Also, few more inputs are also listed in my 2021-diary book for more references.
 The repo should typically include issues like 
 1. Common synonyms for text completion and sentence equivalance
